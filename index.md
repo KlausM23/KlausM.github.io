@@ -18,7 +18,7 @@ Análisis exploratorio de datos del covid-19 en Perú.
 
 ---
 
-<!- https://github.com/gonzalezgouveia/gonzalezgouveia.github.io ->
+<!--- https://github.com/gonzalezgouveia/gonzalezgouveia.github.io --->
 
 ### Mis Skills son
 
