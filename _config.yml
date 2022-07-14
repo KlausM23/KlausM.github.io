@@ -1,0 +1,11 @@
+title: Klaus Matthew Mollan Neyra
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Scientist & Analytics, Lima, Perú 
+  <br><br>
+  Mi objetivo es procesar datos para aplicarlos y manejarlo de forma eficiente para la solución de un problema.
+  <br><br>
+
+ 
+  
+theme: jekyll-theme-minimal
